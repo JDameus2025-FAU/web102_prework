@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://youtu.be/_v4_nfOHxxc)
+[![Video Walkthrough](https://img.youtube.com/vi/_v4_nfOHxxc/0.jpg)](https://www.youtube.com/watch?v=_v4_nfOHxxc)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
